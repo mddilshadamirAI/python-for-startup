@@ -21,7 +21,7 @@ def start_game():
         except ValueError:
             print("Please enter a valid number.")
 
-start_game
+start_game()
 
 
 
