@@ -1,3 +1,3 @@
-This is the repositories where most of my week1 code is
-I cant able to code today because i am moving to kolkata 
-Today mainly lecture oriented study..
+## This Repo contains most of my codes 
+This repo has my learning curve you can track my improvement in this repo.
+## Can you please leave a suggestion for me..
