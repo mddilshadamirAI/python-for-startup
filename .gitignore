@@ -1,1 +1,17 @@
-.venv
+# --- Environment ---
+.venv/
+venv/
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- IDE/Editor Folders ---
+.idx/
+.vscode/
+.idea/
+.DS_Store
+
+# --- Project Specifics ---
+# Add your local data/temp files here if needed
