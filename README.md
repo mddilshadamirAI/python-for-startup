@@ -25,7 +25,7 @@ I organize my development workflow into distinct modular directories to ensure s
 ---
 
 ### 🛠️ TECHNICAL FOCUS
-My work within PYTH-LAB is governed by these core engineering principles:
+My work within PYTHON-LAB is governed by these core engineering principles:
 
 *   **Modular Architecture:** Developing reusable code components to reduce technical debt.
 *   **Automation-First:** Creating custom scripts to streamline repetitive workflows.
@@ -49,7 +49,7 @@ I am committed to clean, readable code and welcome feedback to refine my impleme
 
 ---
 
-> *“Code is not merely a set of instructions; it is an evolving architecture of logic. PYTH-LAB is where that architecture is tested, refined, and perfected.”*
+> *“Code is not merely a set of instructions; it is an evolving architecture of logic. PYTHON-LAB is where that architecture is tested, refined, and perfected.”*
 
 ---
 
