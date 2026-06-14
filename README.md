@@ -3,8 +3,6 @@
 # 🧪 PYTH-LAB
 ### Advanced Python Research, Experimentation & Development Workspace
 
-[**View Source Code**](https://github.com/mddilshadamirAI/PYTH-LAB) • [**Report an Issue**](https://github.com/mddilshadamirAI/PYTH-LAB/issues)
-
 ---
 
 ### 🌐 OVERVIEW
