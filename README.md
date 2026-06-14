@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 PYTH-LAB
+# 🧪 PYTHON-LAB
 ### Advanced Python Research, Experimentation & Development Workspace
 
 ---
