@@ -48,7 +48,6 @@ I am deeply committed to maintaining clean, idiomatic code and actively invite f
 * **Code Review:** Analyze the implementation logic within the `src/` directory.
 * **Constructive Suggestion:** Open a GitHub Issue if you identify opportunities for architectural optimization.
 * **Extension:** Feel free to fork this environment to build upon the existing structural foundations.
-
 ---
 
 > *"Code is not merely a sequence of instructions; it is an evolving architecture of logic. PYTHON-LAB is the environment where that architecture is stress-tested, refined, and perfected for professional deployment."*
@@ -62,5 +61,4 @@ I am deeply committed to maintaining clean, idiomatic code and actively invite f
 </p>
 
 © 2026 MD DILSHAD AMIR | *Engineered for progress and scalability.*
-
 </div>
