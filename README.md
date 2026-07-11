@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 PYTHON-LABORATORY
+# 🧪 PYTHON-LAB FOR AI AND FUTURE OF AI
 ### Advanced Computational Research & Engineering Workspace
 
 [**View Source Code**](https://github.com/mddilshadamirAI/PYTH-LAB) • [**Report an Issue**](https://github.com/mddilshadamirAI/PYTH-LAB/issues)
